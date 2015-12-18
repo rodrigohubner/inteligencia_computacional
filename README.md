@@ -1,4 +1,4 @@
-http://app.mybinder.org/1912850042/notebooks/index.ipynb
+ [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/tiagoft/inteligencia_computacional) 
 
 # inteligencia_computacional
 Curso introdutório (e interativo) de inteligência computacional usando iPython Notebook e sklearn.
